@@ -20,9 +20,8 @@ Files added/edited:
 
 Notes:
 - State is kept in memory; no backend used. The repository enforces availability rules and throws on invalid operations. UI buttons call provider methods which notify listeners.
-- Check Screenshots Folder
+- Check the Screenshots Folder
 
-A new Flutter project.
 
 ## Getting Started
 
